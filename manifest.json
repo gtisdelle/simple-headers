@@ -11,7 +11,8 @@
     "service_worker": "service-worker.js"
   },
   "permissions": [
-    "declarativeNetRequest"
+    "declarativeNetRequest",
+    "storage"
   ],
   "host_permissions": [
     "<all_urls>"
